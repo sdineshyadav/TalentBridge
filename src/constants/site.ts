@@ -1,8 +1,7 @@
 type SiteNavLink = {
   label: string;
   href: string;
-  icon?: "down" | "right";
-  dropdown?: "more";
+  icon?: "right";
 };
 
 export const siteNavLinks: SiteNavLink[] = [
@@ -12,21 +11,7 @@ export const siteNavLinks: SiteNavLink[] = [
   { label: "STAFFING CONTRACTS", href: "/staffing-contracts" },
   { label: "CONTACT US", href: "/contact" },
   { label: "REQUEST FOR QUOTE", href: "/request-quote" },
-  { label: "More", href: "#", icon: "down", dropdown: "more" },
 ];
-
-export const moreDropdownLinks = [
-  {
-    title: "Careers",
-    href: "https://jobs.gusto.com/boards/caliber-tech-8f246dbd-b571-41dd-ad75-fdd5bb31d8ae",
-    external: true,
-  },
-  {
-    title: "Open Jobs",
-    href: "/careers/open-jobs",
-    external: false,
-  },
-] as const;
 
 export const footerLinkGroups = [
   {

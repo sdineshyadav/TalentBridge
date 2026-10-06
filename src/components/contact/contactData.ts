@@ -3,14 +3,14 @@ import { Mail, MapPin, Phone } from "lucide-react";
 export const contactMethods = [
   {
     title: "Email",
-    value: "hr@calibertechllc.com",
-    href: "mailto:hr@calibertechllc.com",
+    value: "hr@talentbridge.com",
+    href: "mailto:hr@talentbridge.com",
     icon: Mail,
   },
   {
     title: "Phone",
-    value: "+1 469 227 0797",
-    href: "tel:+14692270797",
+    value: "9876543210",
+    href: "tel:9876543210",
     icon: Phone,
   },
   {
@@ -28,7 +28,7 @@ export const faqs = [
       "All benefits are provided based on each employee's employment opportunity with our firm and may vary by individual.",
   },
   {
-    question: "Is Caliber Tech LLC an equal opportunity employer?",
+    question: "Is TalentBridge an equal opportunity employer?",
     answer:
       "Yes. We are an equal opportunity employer and support qualified candidates through the hiring process.",
   },

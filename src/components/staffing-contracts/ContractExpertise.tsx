@@ -12,7 +12,7 @@ export default function ContractExpertise() {
             <ShieldCheck size={44} className="text-[#6EE7D8]" />
 
             <h2 className="mt-6 text-3xl font-black">
-              Why Choose Caliber Tech LLC?
+              Why Choose TalentBridge?
             </h2>
 
             <p className="mt-5 text-lg leading-8 text-white/70">

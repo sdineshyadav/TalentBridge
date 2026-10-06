@@ -21,7 +21,7 @@ export default function ContactLocation() {
           </div>
 
           <h2 className="mt-6 text-3xl font-black text-[#102A43] md:text-4xl">
-            Caliber Tech LLC
+            TalentBridge
           </h2>
 
           <div className="mt-7 space-y-5 text-base leading-8 text-[#667085]">
@@ -54,7 +54,7 @@ export default function ContactLocation() {
       <div className="flex items-center gap-2">
         <MapPin size={18} className="text-[#238A72]" />
         <span className="text-sm font-bold text-[#102A43]">
-          Caliber Tech LLC
+          TalentBridge
         </span>
       </div>
     </div>

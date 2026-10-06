@@ -24,8 +24,8 @@ export default function Footer() {
         <div className="soft-float absolute -left-32 top-0 h-80 w-80 rounded-full bg-blue-500/10 blur-[120px]" />
         <div className="soft-float absolute bottom-0 right-0 h-[360px] w-[360px] rounded-full bg-cyan-500/10 blur-[130px]" />
 
-        <h2 className="pointer-events-none absolute -bottom-0 left-1/2 w-full -translate-x-1/2 text-center text-[70px] font-black leading-none tracking-tight text-white/[0.035] sm:text-[110px] md:text-[150px] lg:text-[190px] xl:text-[230px]">
-          CALIBER 
+        <h2 className="pointer-events-none absolute -bottom-0 left-1/2 w-full -translate-x-1/2 text-center text-[52px] font-black leading-none tracking-tight text-white/[0.035] sm:text-[85px] md:text-[120px] lg:text-[160px] xl:text-[200px]">
+          TALENTBRIDGE
         </h2>
       </div>
 
@@ -48,12 +48,12 @@ export default function Footer() {
 
               <div className="flex items-center gap-3">
                 <Phone size={17} />
-                +1 469 227 0797
+                9876543210
               </div>
 
               <div className="flex items-center gap-3">
                 <Mail size={17} />
-                hr@calibertechllc.com
+                hr@talentbridge.com
               </div>
             </div>
 
@@ -139,7 +139,7 @@ export default function Footer() {
         {/* Bottom */}
         <div className="relative z-10 mt-12 flex flex-col items-center justify-between gap-4 border-t border-white/10 pt-6 text-sm text-white/50 md:flex-row">
           <p>
-            © {new Date().getFullYear()} Caliber Tech LLC. All Rights Reserved.
+            © {new Date().getFullYear()} TalentBridge. All Rights Reserved.
           </p>
 
           <div className="flex gap-8">

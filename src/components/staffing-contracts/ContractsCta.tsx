@@ -20,7 +20,7 @@ export default function ContractsCta() {
 
             <p className="mt-5 max-w-3xl text-lg leading-8 text-white/75">
               Ready to find the right IT talent for your organization? Partner
-              with Caliber Tech LLC today and experience the difference of
+              with TalentBridge today and experience the difference of
               working with industry experts.
             </p>
           </div>

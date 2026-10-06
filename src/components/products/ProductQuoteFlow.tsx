@@ -47,7 +47,7 @@ export default function ProductQuoteFlow() {
             <div className="premium-card mt-6 rounded-2xl border border-[#6EE7D8]/20 bg-[#6EE7D8]/10 p-5">
               <p className="flex items-center gap-3 text-sm font-bold">
                 <ShieldCheck size={20} className="text-[#6EE7D8]" />
-                Partner-backed product sourcing with Caliber Tech guidance.
+                Partner-backed product sourcing with TalentBridge guidance.
               </p>
             </div>
           </div>

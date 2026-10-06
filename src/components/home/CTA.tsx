@@ -53,7 +53,7 @@ export default function CTASection() {
               className="mt-6 max-w-xl text-lg leading-8 text-white/75"
             >
               Join thousands of companies and candidates who have found success
-              with Caliber Tech LLC.
+              with TalentBridge.
             </motion.p>
 
             <motion.div

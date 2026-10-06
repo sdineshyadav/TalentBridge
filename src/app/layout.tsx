@@ -5,7 +5,7 @@ import Footer from "@/components/layout/Footer";
 import ScrollToTop from "@/components/layout/ScrollToTop";
 
 export const metadata: Metadata = {
-  title: "Caliber Tech LLC",
+  title: "TalentBridge",
   description: "Modern staffing and recruitment website",
 };
 

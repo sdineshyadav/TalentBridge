@@ -20,10 +20,10 @@ export default function OpenJobApplication() {
         </p>
 
         <Link
-          href="mailto:HR@calibertechllc.com"
+          href="mailto:HR@talentbridge.com"
           className="premium-sheen premium-depth mt-7 inline-flex w-full items-center justify-center gap-3 rounded-xl bg-white px-6 py-4 font-black text-[#102A43]"
         >
-          HR@calibertechllc.com
+          HR@talentbridge.com
           <ArrowRight size={18} />
         </Link>
       </aside>

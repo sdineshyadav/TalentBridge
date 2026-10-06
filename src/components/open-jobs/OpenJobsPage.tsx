@@ -15,7 +15,7 @@ export default function OpenJobsPage() {
         description="A focused, mobile-friendly job posting notice with the key role details, duties, location, education requirement, and application path clearly organized."
         icon={ShieldCheck}
         actions={[
-          { label: "Apply by email", href: "mailto:HR@calibertechllc.com" },
+          { label: "Apply by email", href: "mailto:HR@talentbridge.com" },
           { label: "Browse jobs", href: "/jobs", variant: "secondary" },
         ]}
       />

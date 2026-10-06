@@ -52,22 +52,22 @@ export default function RequestQuoteSidebar() {
 
       <div className="premium-card premium-depth mt-6 rounded-[26px] border border-[#E4EAF2] bg-white p-6 shadow-[0_18px_50px_rgba(15,47,74,0.08)]">
         <h2 className="text-2xl font-black text-[#102A43]">
-          Caliber Tech LLC
+          TalentBridge
         </h2>
         <div className="mt-5 space-y-3">
           <a
-            href="mailto:hr@calibertechllc.com"
+            href="mailto:hr@talentbridge.com"
             className="flex items-center gap-3 font-bold text-[#238A72]"
           >
             <Mail size={18} />
-            hr@calibertechllc.com
+            hr@talentbridge.com
           </a>
           <a
-            href="tel:+14692270797"
+            href="tel:9876543210"
             className="flex items-center gap-3 font-bold text-[#238A72]"
           >
             <Phone size={18} />
-            +1 469 227 0797
+            9876543210
           </a>
         </div>
       </div>

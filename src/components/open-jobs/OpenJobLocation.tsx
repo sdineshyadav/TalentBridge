@@ -10,7 +10,7 @@ export default function OpenJobLocation() {
       <div className="mt-5 flex gap-4 text-lg leading-8 text-[#667085]">
         <MapPin className="mt-1 shrink-0 text-[#238A72]" size={24} />
         <p>
-          CALIBER TECH LLC
+          TalentBridge
           <br />
           5591 Chamblee Dunwoody Rd, Building 1300, Suite 314
           <br />

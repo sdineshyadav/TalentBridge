@@ -33,7 +33,7 @@ export default function ProductPartnerShowcase() {
     <PageSection className="bg-white">
       <div className="mx-auto max-w-[1280px]">
         <p className="mb-10 text-center text-xs font-black uppercase tracking-[0.22em] text-[#102A43] md:mb-14 md:text-sm md:tracking-[0.28em]">
-          Caliber Tech LLC Technology Stack as an Authorized Partner
+          TalentBridge Technology Stack as an Authorized Partner
         </p>
 
         <Reveal>

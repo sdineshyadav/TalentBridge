@@ -58,7 +58,7 @@ export default function ProductsHero() {
 
           <p className="mt-6 max-w-2xl text-base leading-8 text-[#53657A] sm:text-lg">
             From cybersecurity and networking to workplace collaboration and
-            cloud infrastructure, Caliber Tech LLC delivers trusted technology
+            cloud infrastructure, TalentBridge delivers trusted technology
             solutions from leading global brands.
           </p>
 
@@ -149,7 +149,7 @@ export default function ProductsHero() {
             <div className="relative aspect-[16/11] w-full">
               <Image
                 src="/images/products-hero.png"
-                alt="Caliber Tech LLC enterprise technology ecosystem"
+                alt="TalentBridge enterprise technology ecosystem"
                 fill
                 priority
                 sizes="(max-width: 1023px) 100vw, 840px"

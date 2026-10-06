@@ -25,7 +25,7 @@ export const jobsHero: JobsHero = {
   label: "Career opportunities",
   title: "Explore technology roles matched with better hiring support",
   description:
-    "Browse featured roles, search by category, and connect with opportunities backed by Caliber Tech's people-first staffing process.",
+    "Browse featured roles, search by category, and connect with opportunities backed by TalentBridge's people-first staffing process.",
   icon: BriefcaseBusiness,
   actions: [
     { label: "Search jobs", href: "#jobs" },

@@ -16,11 +16,11 @@ export default function ContractsIntro() {
             </p>
 
             <h2 className="mt-4 text-3xl font-black text-[#102A43]">
-              Welcome to Caliber Tech LLC&apos;s Staffing Solutions
+              Welcome to TalentBridge&apos;s Staffing Solutions
             </h2>
 
             <p className="mt-5 text-lg leading-8 text-[#667085]">
-              At Caliber Tech LLC, we pride ourselves on delivering top-tier IT
+              At TalentBridge, we pride ourselves on delivering top-tier IT
               staffing services tailored to meet the unique needs of our
               clients. With our recent award from the State of South Carolina,
               and the University of Arizona for IT staffing contingent roles, we

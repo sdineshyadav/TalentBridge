@@ -25,7 +25,7 @@ const testimonials = [
   {
     title: "Your time back",
     message:
-      "Hire With Caliber Tech saved me a lot of time handling posting, sourcing, screening, and initial interviews.",
+      "Hire With TalentBridge saved me a lot of time handling posting, sourcing, screening, and initial interviews.",
     name: "Joshua Thompson",
     role: "Partner and COO, Kordis",
     avatar: "J",
@@ -179,14 +179,14 @@ export default function Testimonials() {
             variants={testimonialReveal}
             className="max-w-2xl text-4xl font-medium leading-tight text-black md:text-5xl"
           >
-            What Clients Say About Hire With Caliber Tech LLC
+            What Clients Say About Hire With TalentBridge
           </motion.h2>
 
           <motion.p
             variants={testimonialReveal}
             className="max-w-xl text-lg leading-8 text-[#667085]"
           >
-            Client feedback consistently highlights what sets Caliber Tech LLC
+            Client feedback consistently highlights what sets TalentBridge
             apart as a leading recruitment company across these key areas.
           </motion.p>
         </motion.div>

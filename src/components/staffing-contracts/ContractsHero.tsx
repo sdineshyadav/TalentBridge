@@ -10,7 +10,7 @@ export default function ContractsHero() {
         <Reveal>
           <div>
             <p className="text-sm font-black uppercase tracking-[0.3em] text-[#2F7D32]">
-              Caliber Tech LLC&apos;s Current Staffing Contracts
+              TalentBridge&apos;s Current Staffing Contracts
             </p>
 
             <h1 className="mt-6 max-w-4xl text-4xl font-black leading-tight text-[#102A43] md:text-6xl">
@@ -18,7 +18,7 @@ export default function ContractsHero() {
             </h1>
 
             <p className="mt-6 max-w-3xl text-lg leading-8 text-[#667085]">
-              Caliber Tech LLC delivers top-tier IT staffing services through
+              TalentBridge delivers top-tier IT staffing services through
               awarded public-sector contracts, trusted delivery support, and a
               highly qualified technology talent network.
             </p>
